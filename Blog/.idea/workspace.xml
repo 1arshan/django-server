@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6b05949-8dbd-4711-8b58-64ec2b3863c6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1QCcgcB9cly8TuZUsijUIbz0iBH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../fake_it" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6b05949-8dbd-4711-8b58-64ec2b3863c6" name="Default Changelist" comment="" />
+      <created>1567278130178</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567278130178</updated>
+      <workItem from="1573847291946" duration="1239000" />
+      <workItem from="1574723154576" duration="681000" />
+      <workItem from="1580741908398" duration="1931000" />
+      <workItem from="1580761331376" duration="592000" />
+      <workItem from="1580790061801" duration="1215000" />
+      <workItem from="1581006301308" duration="596000" />
+      <workItem from="1581148884935" duration="1154000" />
+      <workItem from="1581165810299" duration="615000" />
+      <workItem from="1581234655111" duration="2237000" />
+      <workItem from="1581316776171" duration="1547000" />
+      <workItem from="1581331467699" duration="591000" />
+      <workItem from="1581333442803" duration="196000" />
+      <workItem from="1581334206488" duration="1963000" />
+      <workItem from="1581505290027" duration="5866000" />
+      <workItem from="1581605635418" duration="94000" />
+      <workItem from="1581618117462" duration="2927000" />
+      <workItem from="1581625985158" duration="375000" />
+      <workItem from="1581626420337" duration="920000" />
+      <workItem from="1582363352117" duration="1324000" />
+      <workItem from="1582556327724" duration="588000" />
+      <workItem from="1582607040552" duration="103000" />
+      <workItem from="1582810225374" duration="3288000" />
+      <workItem from="1582869074247" duration="596000" />
+      <workItem from="1582874015196" duration="111000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="465" y="153" width="426" height="486" key="FileChooserDialogImpl" timestamp="1582874123800">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="465" y="153" width="426" height="486" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1582874123800" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1581509985338">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1581509985338" />
+  </component>
+</project>

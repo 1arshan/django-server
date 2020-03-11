@@ -1,0 +1,27 @@
+{%extends 'blog/base.html' %}
+
+{%block body%}
+<h1>search results</h1>
+
+<ul>
+    {% for x in object_list  %} 
+      <li>
+      {{x}}{% if x.author.username %}(blogger username){%else%}(blog in {{x.Author.author.username}}'s blog){%endif%} 
+              
+      </li>
+    {% endfor %}
+  </ul>
+
+  <ul>
+    {% for x in object_list2  %} 
+      <li>
+        {{blogs }}
+      </li>
+    {% endfor %}
+  </ul>
+
+
+
+
+
+  {%endblock%}

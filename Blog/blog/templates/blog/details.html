@@ -1,0 +1,26 @@
+{% extends 'blog/base.html' %}
+{%block body%}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Document</title>
+</head>
+<body><p></p>
+  
+            <h1>{{object.author}}:</h1>   
+                
+      <ol>{%for x in object.blogs1_set.all%} 
+        <li>{{x.blog_content}}  </li>
+                
+                {%endfor%}
+         
+        </ol>
+      
+        {% endblock %}    
+     
+</body>
+</html>

@@ -1,0 +1,41 @@
+{%extends 'send/base.html' %}
+{%block title %}Add a new blog {%endblock%}
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    {%block body%}
+
+<div class ="container-fluid">
+
+    <div class ="row">
+
+    <div class ="col-sm-12 col md-7">
+        <div class ="panel panel-Subject:default">
+            <div class ="panel-body">
+                
+                <form class ="form-horizontal" action ="{%url 'send:index2' %}" method ="POST" enctype ="multipart/form-data">
+                    {% csrf_token %}
+                    {% include 'send/form-template.html' %}
+                    <div class ="form-group">
+                        <div class ="col-sm-offset-2 col-sm-10">
+                            <button type ="submit" class="btn btn-success">Submit</button>
+                        </div>
+                    </div>    
+                </form>
+            </div>
+        </div>
+    </div>
+</div>    
+
+
+{%endblock%}
+</body>
+</html>

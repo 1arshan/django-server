@@ -1,0 +1,13 @@
+{%extends 'base_for_registration.html'%}
+
+{%block body%}
+<h2> Log In</h2>
+<form method ="POST">
+    {% csrf_token %}
+    {{form.as_p}}
+    <button type ="submit"> LogIN </button>
+    <a href="{%url 'password_reset'%}" class="btn btn-primary btn-sm" role="button">forgot password</a>
+
+</form>
+
+{%endblock%}
