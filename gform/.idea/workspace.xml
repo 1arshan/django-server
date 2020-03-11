@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0fc21043-5433-4469-9bbe-b06caf08a733" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="ProjectId" id="1VqXRUf8MeliIwYJb78FFUUQxKy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../cse website" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="gform" type="Python.DjangoServer" factoryName="Django server">
+      <module name="gform" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0fc21043-5433-4469-9bbe-b06caf08a733" name="Default Changelist" comment="" />
+      <created>1577981590373</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577981590373</updated>
+      <workItem from="1577981592385" duration="11945000" />
+      <workItem from="1578085887910" duration="239000" />
+      <workItem from="1578334318565" duration="221000" />
+      <workItem from="1578489090394" duration="6865000" />
+      <workItem from="1578581456754" duration="15940000" />
+      <workItem from="1578669259893" duration="975000" />
+      <workItem from="1578721957274" duration="6128000" />
+      <workItem from="1578728794989" duration="6901000" />
+      <workItem from="1578805435638" duration="2028000" />
+      <workItem from="1578833118107" duration="4605000" />
+      <workItem from="1578981346514" duration="11544000" />
+      <workItem from="1579034940956" duration="883000" />
+      <workItem from="1579067412533" duration="9105000" />
+      <workItem from="1579200523273" duration="595000" />
+      <workItem from="1579243439057" duration="10481000" />
+      <workItem from="1579327104313" duration="3591000" />
+      <workItem from="1579412353250" duration="6919000" />
+      <workItem from="1579433594301" duration="4172000" />
+      <workItem from="1580734981545" duration="118000" />
+      <workItem from="1580735214004" duration="3824000" />
+      <workItem from="1580761330468" duration="592000" />
+      <workItem from="1580790058990" duration="590000" />
+      <workItem from="1581006302965" duration="16585000" />
+      <workItem from="1581149443241" duration="7832000" />
+      <workItem from="1581165809225" duration="2978000" />
+      <workItem from="1581234656466" duration="6813000" />
+      <workItem from="1581243819854" duration="9141000" />
+      <workItem from="1581254734968" duration="392000" />
+      <workItem from="1581317122177" duration="6304000" />
+      <workItem from="1581327723098" duration="1137000" />
+      <workItem from="1581331468649" duration="1057000" />
+      <workItem from="1581334216393" duration="6645000" />
+      <workItem from="1582002218350" duration="1227000" />
+      <workItem from="1582118105163" duration="599000" />
+      <workItem from="1582353601759" duration="1365000" />
+      <workItem from="1582356066215" duration="2795000" />
+      <workItem from="1582556329111" duration="652000" />
+      <workItem from="1582625629516" duration="1853000" />
+      <workItem from="1582696440096" duration="577000" />
+      <workItem from="1582783773539" duration="2001000" />
+      <workItem from="1582787579678" duration="594000" />
+      <workItem from="1582869072822" duration="1209000" />
+      <workItem from="1582987079612" duration="1471000" />
+      <workItem from="1583038877253" duration="3695000" />
+      <workItem from="1583056949780" duration="1763000" />
+      <workItem from="1583263992807" duration="591000" />
+      <workItem from="1583507544218" duration="85000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="277" y="57" width="802" height="679" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579243551114">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="277" y="57" width="802" height="679" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.741@0.27.1366.741" timestamp="1579243551114" />
+    <state x="365" y="123" width="626" height="546" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578085897738">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="365" y="123" width="626" height="546" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.27.1366.741@0.27.1366.741" timestamp="1578085897738" />
+    <state x="465" y="153" width="426" height="486" key="FileChooserDialogImpl" timestamp="1583507624841">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="465" y="153" width="426" height="486" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1583507624841" />
+    <state x="183" y="38" key="SettingsEditor" timestamp="1577998656688">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="183" y="38" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1577998656688" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1579413779952">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1579413779952" />
+  </component>
+</project>
